@@ -1,0 +1,1 @@
+c:\users\ryohei\documents\visual studio 2015\Projects\sience_calc\sience_calc\bin\Debug\sience_calc.exe.config

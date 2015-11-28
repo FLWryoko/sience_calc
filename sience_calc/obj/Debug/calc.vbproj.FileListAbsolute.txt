@@ -1,0 +1,10 @@
+C:\Users\ryohei\documents\visual studio 2015\Projects\sience_calc\sience_calc\bin\Debug\sience_calc.exe.config
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\bin\Debug\sience_calc.exe
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\bin\Debug\sience_calc.pdb
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\bin\Debug\sience_calc.xml
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\obj\Debug\calc.vbprojResolveAssemblyReference.cache
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\obj\Debug\sience_calc.Resources.resources
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\obj\Debug\calc.vbproj.GenerateResource.Cache
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\obj\Debug\sience_calc.exe
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\obj\Debug\sience_calc.xml
+C:\Users\ryohei\Documents\Visual Studio 2015\Projects\sience_calc\sience_calc\obj\Debug\sience_calc.pdb
