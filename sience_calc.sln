@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "calc", "sience_calc\calc.vbproj", "{973AB4CA-AA8D-4828-B704-E0FCF188CD02}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "molecular_mechanics", "molecular_mechanics\molecular_mechanics.vbproj", "{93628EC8-B38A-4F50-9079-DA2328FF3424}"
-EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "入力処理", "入力処理\入力処理.vbproj", "{CD33075C-B388-4A66-AA0F-09195756A583}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{973AB4CA-AA8D-4828-B704-E0FCF188CD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{973AB4CA-AA8D-4828-B704-E0FCF188CD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{973AB4CA-AA8D-4828-B704-E0FCF188CD02}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93628EC8-B38A-4F50-9079-DA2328FF3424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93628EC8-B38A-4F50-9079-DA2328FF3424}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93628EC8-B38A-4F50-9079-DA2328FF3424}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93628EC8-B38A-4F50-9079-DA2328FF3424}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CD33075C-B388-4A66-AA0F-09195756A583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CD33075C-B388-4A66-AA0F-09195756A583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD33075C-B388-4A66-AA0F-09195756A583}.Release|Any CPU.ActiveCfg = Release|Any CPU
