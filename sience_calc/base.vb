@@ -9,7 +9,6 @@ Module base
     
     Sub result()
         
-        Console.Writeline()
     End Sub
 
     Class calc
@@ -24,6 +23,7 @@ Module base
         Inherits dafault_tvalue 
     Public Sub sum()
             Dim z = x+y
+                Console.Writeline(z)
                 result()
                 End Sub
         End Class
