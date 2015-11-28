@@ -4,27 +4,29 @@ Module base
 
     Sub Main()
        
-        result()
+        入力()
     End Sub
     
-    Sub result()
-        
-        Console.Writeline()
+    Public Sub 入力()
+        Console.ReadLine(x)
+
     End Sub
 
-    Class calc
+    Class 電卓
     
-        Class dafault_tvalue
+        Class 初期値
         Public Dim x As Double 
         Public Dim y As Double 
         Public Dim z As Double 
         End Class
 
-    Class addition
-        Inherits dafault_tvalue 
+    Class 加算
+        Inherits 初期値
     Public Sub sum()
             Dim z = x+y
-                result()
+                
+        Console.Writeline(z)
+
                 End Sub
         End Class
     End Class
