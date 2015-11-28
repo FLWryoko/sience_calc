@@ -8,13 +8,15 @@ Module base
     End Sub
     
     Public Sub 入力()
-        Console.ReadLine(x)
+        Dim w As String 
+        w = Console.ReadLine()
 
     End Sub
 
     Class 電卓
     
         Class 初期値
+        
         Public Dim x As Double 
         Public Dim y As Double 
         Public Dim z As Double 
