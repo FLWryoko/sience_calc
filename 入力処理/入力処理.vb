@@ -6,10 +6,14 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
     <TestMethod()> Public Sub TestMethod1()
         Dim 入力値 As String 
         Dim 解 As Double 
-        Dim 数値 As String = 0<=9 
+        Dim 数値 As Double 
+         
         Dim プラス記号 As String = "+"
         入力値 = Console.ReadLine() 
         If 入力値 = プラス記号 Then
+        ElseIf 入力値   Then
+
+             
         ElseIf 入力値 = 数値 Then
             解 = 数値
             End if

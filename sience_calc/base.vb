@@ -4,32 +4,26 @@ Module base
 
     Sub Main()
        
-        入力()
+        
     End Sub
     
-    Public Sub 入力()
-        Dim w As String 
-        w = Console.ReadLine()
-
-    End Sub
-
+    
     Class 電卓
     
-        Class 初期値
         
-        Public Dim x As Double 
-        Public Dim y As Double 
-        Public Dim z As Double 
-        End Class
+        
+        Public Dim 入力値 As String  
+        
+        Public Dim 実数値 As Double 
+        Public Dim 解 As Double 
 
-    Class 加算
-        Inherits 初期値
-    Public Sub sum()
-            Dim z = x+y
-                
-        Console.Writeline(z)
+            Public Sub TestMethod1()
+       Console.WriteLine(解)
 
-                End Sub
-        End Class
+    End Sub
+
+       
+
+       
     End Class
 End Module
