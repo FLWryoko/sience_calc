@@ -3,27 +3,22 @@
 Module base
 
     Sub Main()
-       
         
     End Sub
     
-    
-    Class 電卓
-    
+    Public Class 入出力処理
+    Dim 入力値 As String 
+     Public Sub 型変換()
+        Dim 入力値 As Double = CType(入力値,Double)
         
-        
-        Public Dim 入力値 As String  
-        
-        Public Dim 実数値 As Double 
-        Public Dim 解 As Double 
-
-            Public Sub TestMethod1()
-       Console.WriteLine(解)
-
     End Sub
 
-       
+        Public Sub コンソール出力()
+            Dim 解 As Double 
+         Console.WriteLine(解)
+    End Sub
 
-       
-    End Class
+End Class
+  
 End Module
+
