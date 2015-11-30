@@ -2,11 +2,11 @@
 
 Module base
 
-    Sub Main()
-        
+    Public Sub Main()
+       型変換
     End Sub
     
-    Public Class 入出力処理
+    
     Dim 入力値 As String 
      Public Sub 型変換()
         Dim 入力値 As Double = CType(入力値,Double)
@@ -18,7 +18,5 @@ Module base
          Console.WriteLine(解)
     End Sub
 
-End Class
-  
 End Module
 
