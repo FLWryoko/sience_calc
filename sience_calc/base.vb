@@ -3,29 +3,22 @@
 Module base
 
     Sub Main()
-       
-        result()
+        
     End Sub
     
-    Sub result()
+    Public Class 入出力処理
+    Dim 入力値 As String 
+     Public Sub 型変換()
+        Dim 入力値 As Double = CType(入力値,Double)
         
     End Sub
 
-    Class calc
-    
-        Class dafault_tvalue
-        Public Dim x As Double 
-        Public Dim y As Double 
-        Public Dim z As Double 
-        End Class
+        Public Sub コンソール出力()
+            Dim 解 As Double 
+         Console.WriteLine(解)
+    End Sub
 
-    Class addition
-        Inherits dafault_tvalue 
-    Public Sub sum()
-            Dim z = x+y
-                Console.Writeline(z)
-                result()
-                End Sub
-        End Class
-    End Class
+End Class
+  
 End Module
+
